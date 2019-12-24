@@ -1,5 +1,5 @@
 # Christmas-Planet
-![img](https://cdn.discordapp.com/attachments/366325097507586049/659114656069058576/unknown.png)
+![img](https://i.imgur.com/utRutc4.jpg)
 A planet for KSP during this festive time!
 
 As a present from myself to the community, I decided to create a Christmas themed planet. This planet, called "The Snowball" orbits Kerbol just beyond Jool.
