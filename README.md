@@ -10,3 +10,6 @@ The christmas planet, creatively called "The Christmas Planet" orbits just beyon
 * Recommends Scatterer - https://github.com/LGhassen/Scatterer/releases
 
 **As Kopernicus has not been updated to 1.8 yet, you MUST use KSP 1.7.3. You MUST use the 1.7.3 versions of the mods above.**
+
+# License
+The license for this mod is All Rights Reserved.
